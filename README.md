@@ -10,7 +10,9 @@
   <img src="https://img.icons8.com/color/2x/bootstrap.png" width="120" alt="Bootstrap">
   <img src="https://www.php.net/images/logos/new-php-logo.svg" width="120" height="120" alt="PHP">
 </table>
+    
 <hr>
+
 <div> 
   <a href="https://www.linkedin.com/in/lucas-santos-ls" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
