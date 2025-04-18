@@ -23,5 +23,6 @@ Tenho interesse em construir soluções eficientes e escaláveis, sempre buscand
 <hr>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Lucas-Santos732&theme=tokyonight&size_weight=1.5&count_weight=1.5" align="left">
+<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Santos732&hide=html&layout=compact&theme=tokyonight" align="right">
 
