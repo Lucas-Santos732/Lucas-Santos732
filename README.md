@@ -1,32 +1,27 @@
-# Hello World, I'm Lucas Santos, be very welcome
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<h3 align="left"> 
+👋 Olá, eu sou o Lucas!
+</h3>
 
-<table>
-  <a href="https://github.com/Lucas-Santos732">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Lucas-Santos732&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Santos732&layout=compact&langs_count=6&theme=tokyonight"/>  
-  <img src="https://img.icons8.com/color/2x/html-5.png" width="120" alt="HTML5">
-  <img src="https://img.icons8.com/color/2x/css3.png" width="120" alt="CSS3">
-  <img src="https://static.vecteezy.com/system/resources/previews/027/127/560/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" width="120" alt="JavaScript">
-  <img src="https://img.icons8.com/color/2x/bootstrap.png" width="120" alt="Bootstrap">
-  <img src="https://www.php.net/images/logos/new-php-logo.svg" width="120" height="120" alt="PHP">
-</table>
-    
+<p align="left"> 
+Sou desenvolvedor backend com foco em Java com Spring e Flutter. Atualmente trabalho na NTL - Nova Tecnologia como full-stack e estou cursando Ciência da Computação.
+
+Tenho interesse em construir soluções eficientes e escaláveis, sempre buscando aprender mais e evoluir como profissional na área de tecnologia.
+</p>
+
+<p align="left">
+  🔭 Projeto Pessoal: 
+  
+  📱 Aplicativo de controle financeiro com backend em Java Spring (API), mobile desenvolvido em Flutter, e futuramente também com versão web em Flutter.
+</p>
+<p align="left">
+  <a href="https://github.com/Lucas-Santos732"><img src="https://img.shields.io/static/v1?label=Overview&message=Lucas-Santos732&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub"></a>
+  <a>&nbsp</a>
+  <a href="https://www.linkedin.com/in/lucas-santos-ls"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
+
 <hr>
 
-<div> 
-  <a href="https://www.linkedin.com/in/lucas-santos-ls" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-<!--
-**Lucas-Santos732/Lucas-Santos732** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://github-readme-stats.vercel.app/api?username=Lucas-Santos732&theme=tokyonight&size_weight=1.5&count_weight=1.5" align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Santos732&hide=html&layout=compact&theme=tokyonight" align="right">
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
